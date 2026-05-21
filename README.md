@@ -43,11 +43,11 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 Current Focus & Goals
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maitecastillo-lab&theme=dracula&hide_border=true" alt="Maite's GitHub Streak" />
-</p>
+* 💻 **Internship Projects:** Developing clean, efficient code and getting hands-on experience in real-world software development environments.
+* ⚙️ **Code Quality:** Learning best practices, version control with Git, and building scalable logical architectures.
+* 🚀 **Career Goal:** Looking forward to growing as a software developer and contributing value to dynamic development teams.
 
 ---
 
