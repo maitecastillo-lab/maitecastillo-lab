@@ -46,8 +46,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maitecastillo-lab&show_icons=true&theme=dracula&hide_border=true" alt="Maite's Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitecastillo-lab&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maitecastillo-lab&theme=dracula&hide_border=true" alt="Maite's GitHub Streak" />
 </p>
 
 ---
