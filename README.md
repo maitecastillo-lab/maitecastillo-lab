@@ -16,9 +16,8 @@
 ## 👩‍💻 About Me
 
 * 🎓 Currently studying **Cross-Platform Applications Development** (DAM).
-* 🧪 Actively building **small-scale utilities and web apps** to sharpen my full-stack skills.
-* 🌱 Deepening my knowledge in **Backend Logic and Database Management**.
-* 💬 Ask me about: **JavaScript, Java, or clean HTML/CSS layouts**.
+* 🧪 Developing **small tasks and applications** as part of my internship projects.
+* 🌱 Gaining hands-on experience in both **frontend interfaces and backend logic**.
 * ⚡ Fun fact: **I'm an adrenaline junkie who loves outdoor adventures as much as solving complex bugs! 🛹🏔️**
 
 ---
