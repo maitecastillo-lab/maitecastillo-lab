@@ -4,11 +4,11 @@
 
 <p align="center">
   <strong>🚀 Associate Software Developer | Tech Enthusiast</strong><br>
-  🇵🇪 From Peru, currently based in Spain 🇪🇸
+  From Peru <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/pe.svg" width="20" alt="Peru Flag" /> currently based in Spain <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg" width="20" alt="Spain Flag" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario-github&label=Profile%20Views&color=ff79c6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=maitecastillo-lab&label=Profile%20Views&color=ff79c6&style=flat-square" alt="Profile views" />
 </p>
 
 ---
@@ -46,8 +46,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=dracula&hide_border=true" alt="Maite's Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maitecastillo-lab&show_icons=true&theme=dracula&hide_border=true" alt="Maite's Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitecastillo-lab&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="160" />
 </p>
 
 ---
